@@ -4,7 +4,7 @@
 
 ![Design preview for the blog-codar](./assets/images//project-image.png)
 
-<h4 align="center"><a href="https://lucasgabriell97.github.io/attendance-list/">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://centro-boa-forma-nu.vercel.app/">Clique para visitar o projeto</a></h4>
 
 ## 📚 Sobre o projeto
 
