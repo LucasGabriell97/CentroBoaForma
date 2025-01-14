@@ -12,9 +12,9 @@ Esse foi um projeto do curso de Carreira Web | Sites profissionais do canal Node
 
 ## 🛠️ Tecnologias utilizadas
 
-• HTML
-• CSS
-• Jquery
+• HTML<br>
+• CSS<br>
+• Jquery<br>
 • Materialize CSS
 
 ## 🔗 Link do curso
