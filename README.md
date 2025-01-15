@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="./assets/images/project-image.png" alt="Design preview for the blog-codar">
+  <img src="./assets/images/project-image.png" alt="Imagem do projeto Centro Boa Forma">
 </div>
 
 <h4 align="center">
