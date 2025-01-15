@@ -2,7 +2,9 @@
   💻<br>Centro Boa Forma
 </h1>
 
-![Design preview for the blog-codar](./assets/images//project-image.png)
+<div align="center">
+  ![Design preview for the blog-codar](./assets/images//project-image.png)
+</div>
 
 <h4 align="center"><a href="https://centro-boa-forma-nu.vercel.app/" target="_blank">Clique para visitar o projeto</a></h4>
 
