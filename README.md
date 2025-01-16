@@ -1,5 +1,5 @@
 <h1 align="center">
-  💻<br>Centro Boa Forma
+  🏋️<br>Centro Boa Forma
 </h1>
 
 <div align="center">
@@ -16,11 +16,12 @@ Esse foi um projeto do curso de Carreira Web | Sites profissionais do canal Node
 
 ## 🛠️ Tecnologias utilizadas
 
-• HTML<br>
-• CSS<br>
-• Jquery<br>
-• Materialize CSS
+- HTML
+- CSS
+- Jquery
+- Materialize CSS
 
 ## 🔗 Link do curso
 
-https://www.youtube.com/watch?v=yMX8MuxMO3A&list=PLwXQLZ3FdTVGbnuBYtOnkIIwdYKYRuhYt
+<a href="https://www.youtube.com/watch?v=yMX8MuxMO3A&list=PLwXQLZ3FdTVGbnuBYtOnkIIwdYKYRuhYt" target="_blank">Clique para visitar o curso</a>
+
